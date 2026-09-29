@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efed711-ded3-44f0-8747-5824ad964323" name="Changes" comment="Step 4 finished">
+    <list default="true" id="6efed711-ded3-44f0-8747-5824ad964323" name="Changes" comment="Step 6 finito">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/housing_price_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1790243882802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Step 6 finito">
+      <option name="closed" value="true" />
+      <created>1790598642149</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1790598642149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step 4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 4 finished" />
+    <MESSAGE value="Step 6 finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 6 finito" />
   </component>
 </project>
